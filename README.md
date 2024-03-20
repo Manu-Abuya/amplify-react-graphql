@@ -40,12 +40,14 @@ amplify publish
 ```
 
 7. Access Your Deployed App
+   
 Once the deployment process is completed, your React app will be hosted on a unique URL provided by AWS Amplify. You can access your app using this URL.
-
 For more detailed instructions and advanced configuration options, refer to the Amplify documentation.
 
 Contributing
+
 Contributions are welcome! If you encounter any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
 
 License
+
 This project is licensed under the MIT License. You are free to use, modify, and distribute the code as per the terms of the license.
