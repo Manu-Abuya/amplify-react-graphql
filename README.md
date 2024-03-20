@@ -12,26 +12,33 @@ To deploy your "amplify-react-app" on AWS Amplify, follow these steps:
 
 ```bash
 git clone https://github.com/your-username/amplify-react-app.git
+```
+
 2. Navigate to the Project Directory
-bash
-Copy code
+```bash
 cd amplify-react-app
+```
+
 3. Install Dependencies
-bash
-Copy code
+```bash
 npm install
+```
+
 4. Initialize Amplify Project
-bash
-Copy code
+```bash
 amplify init
+```
+
 5. Add Hosting to Your Project
-bash
-Copy code
+```bash
 amplify add hosting
+```
+
 6. Deploy Your App
-bash
-Copy code
+```bash
 amplify publish
+```
+
 7. Access Your Deployed App
 Once the deployment process is completed, your React app will be hosted on a unique URL provided by AWS Amplify. You can access your app using this URL.
 
